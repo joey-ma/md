@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoyoyojoe
 - 👀 I’m interested in ... coding!
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... recoil
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/joeyma/
 
